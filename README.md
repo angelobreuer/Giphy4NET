@@ -12,7 +12,7 @@ A .NET giphy api wrapper.
 
 ___
 
-## Getting Started
+## `Getting Started`
 
 > ###### Prerequisites
 > - Giphy API key ([Get](https://developers.giphy.com/dashboard/) / [Manual](https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key))
