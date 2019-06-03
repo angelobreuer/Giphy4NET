@@ -3,6 +3,14 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Angelo Breuer</Authors>
+    <Description>A .NET giphy api wrapper.</Description>
+    <Copyright>Angelo Breuer</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/angelobreuer/Giphy4NET</RepositoryUrl>
+    <PackageTags>giphy, giphy4net, giphy-wrapper, gif</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
