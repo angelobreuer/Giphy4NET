@@ -12,6 +12,7 @@
     <RepositoryUrl>https://github.com/angelobreuer/Giphy4NET</RepositoryUrl>
     <PackageTags>giphy, giphy4net, giphy-wrapper, gif</PackageTags>
     <PackageIconUrl>https://i.imgur.com/3PW8cKG.png</PackageIconUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

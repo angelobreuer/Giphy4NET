@@ -1,5 +1,6 @@
 namespace Giphy4NET
 {
+    using System;
     using Newtonsoft.Json;
 
     /// <summary>
@@ -17,7 +18,7 @@ namespace Giphy4NET
         ///     Gets the time when the gif was created.
         /// </summary>
         [JsonProperty("create_datetime")]
-        public string CreateDateTime { get; internal set; }
+        public DateTimeOffset CreatedAt { get; internal set; }
 
         /// <summary>
         ///     Gets the giphy url used for embeds.
@@ -41,7 +42,7 @@ namespace Giphy4NET
         ///     Gets the time when the gif was imported.
         /// </summary>
         [JsonProperty("import_datetime")]
-        public string ImportDateTime { get; internal set; }
+        public DateTimeOffset ImportedAt { get; internal set; }
 
         /// <summary>
         ///     Gets the gif age rating.
