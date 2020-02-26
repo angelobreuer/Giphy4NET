@@ -1,4 +1,4 @@
-﻿namespace UniBot.Giphy
+﻿namespace Giphy4NET
 {
     /// <summary>
     ///     A set of MPAA-style-Ratings supported by giphy.

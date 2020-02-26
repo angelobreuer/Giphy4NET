@@ -1,4 +1,4 @@
-namespace UniBot.Giphy
+namespace Giphy4NET
 {
     using System;
     using System.Collections.Generic;

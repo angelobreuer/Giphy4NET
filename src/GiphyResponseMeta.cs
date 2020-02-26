@@ -1,4 +1,4 @@
-namespace UniBot.Giphy
+namespace Giphy4NET
 {
     using Newtonsoft.Json;
 

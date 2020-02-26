@@ -1,4 +1,4 @@
-namespace UniBot.Giphy
+namespace Giphy4NET
 {
     /// <summary>
     ///     The configuration for the <see cref="GiphyService"/>.
